@@ -60,7 +60,7 @@ Real-time computer vision system using hand tracking and gesture recognition
 for interactive system controls.
 
 ---
--->
+
 ## Featured Repositories
 
 - [DocTalk](https://github.com/PalakSinha2505/DocTalk)
@@ -70,7 +70,7 @@ for interactive system controls.
 - [CareerSaathi Backend](https://github.com/CareerSaathi-Project/backendCareerSathi)
 
 ---
-
+-->
 
 ## Connect With Me
 

@@ -36,7 +36,7 @@ TensorFlow • OpenCV • FAISS • Gemini API
 Git • GitHub • Firebase • MongoDB • PostgreSQL
 
 ---
-
+<!--
 ## Featured Projects
 
 ### DocTalk
@@ -60,7 +60,7 @@ Real-time computer vision system using hand tracking and gesture recognition
 for interactive system controls.
 
 ---
-
+-->
 ## Featured Repositories
 
 - [DocTalk](https://github.com/PalakSinha2505/DocTalk)
